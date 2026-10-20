@@ -1,0 +1,4 @@
+.vw-frac-svg { max-width: 760px; margin: 0 auto; overflow: visible; }
+.vw-frac-equation { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: .7rem; background: #e7efff; border: 1px solid #c5d6f7; color: #142743; border-radius: 12px; padding: 1rem; margin-top: .6rem; font-size: clamp(1rem, 2.4vw, 1.35rem); overflow-wrap: anywhere; }
+.vw-frac-equation strong { color: #164ad1; }
+@media (max-width: 480px) { .vw-frac-equation { gap: .25rem; padding: .8rem; } }
