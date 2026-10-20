@@ -1,0 +1,9 @@
+{
+  "name": "bit-by-bit-digital-logic-studio",
+  "version": "1.2.0",
+  "private": true,
+  "description": "Digital logic study studio with complete worked solutions, interactive visuals, practice and exams.",
+  "scripts": {
+    "test": "node --test tests/*.test.cjs"
+  }
+}
